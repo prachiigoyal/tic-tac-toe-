@@ -1,0 +1,25 @@
+.board table {
+  border-spacing: 0;
+  border-collapse: collapse;
+  margin: 0 auto;
+}
+.piece {
+  width: 70px;
+  height: 70px;
+  padding: 6px 0 0 6px;
+  margin: 0;
+  border: 10px solid #056A67;
+  border-radius: 20px;
+  color: black;
+  text-align: center;
+  font-size: 24px;
+  font-weight: 700;
+}
+.heading{
+  font-size: 24px;
+  font-weight: 700;
+  color: #056A67;
+}
+.outer{
+  text-align: center;
+}
